@@ -1,0 +1,4 @@
+blog_article:
+    resource: "@BlogBundle/Resources/config/routing/article.xml"
+    prefix:   /article
+
